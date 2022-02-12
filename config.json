@@ -1,0 +1,16 @@
+{
+  "provider" : "https://bsc-dataseed.binance.org/",
+  "address": "0x28E9Df640c6E0d96FD9E45f843Fe2b9166eC9fC5",
+  "private_key": "private_key",
+  "api_id":"18269225",
+  "api_hash": "11d14528be80936f1358dcba6bf4b9af",
+  "slippage": 20,
+  "bnb_pool": 50,
+  "usdt_pool": 50000,
+  "profit": 200,
+  "stoploss": 20,
+  "gas_limit": 300000,
+  "gas_price": 6.5,
+  "amount":0.1,
+  "buy_slippage":0.5
+}
